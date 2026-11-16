@@ -1,0 +1,15 @@
+# Ficam fora do repositório público
+Gabaritos/
+Slides_editaveis/
+*.pptx
+
+# Arquivos que os alunos geram durante as aulas
+Notebooks/*.csv
+Notebooks/*.png
+
+# Ambientes e arquivos temporários
+.venv/
+venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

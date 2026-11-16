@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite-o conforme os metadados abaixo."
+type: software
+title: "Análise Econômica e Machine Learning: notebooks e slides das aulas práticas"
+abstract: >-
+  Material didático da disciplina Análise Econômica e Machine Learning, da
+  Universidade Católica de Pernambuco: dez laboratórios em Python, cada um com
+  um notebook de exercícios e os slides da aula, com dados econômicos reais.
+authors:
+  - family-names: "Sodré"
+    given-names: "Flavius Raymundo Arruda"
+    affiliation: "Universidade Católica de Pernambuco"
+version: "1.0"
+date-released: "2026-11-30"
+# doi: "10.5281/zenodo.XXXXXXX"
+repository-code: "https://github.com/FlaviusSodre/analise-economica-machine-learning"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - material didático
+  - aprendizado de máquina
+  - machine learning causal
+  - análise econômica
+  - Python
+  - dados públicos

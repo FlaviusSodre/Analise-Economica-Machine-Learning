@@ -1,0 +1,22 @@
+{
+  "upload_type": "lesson",
+  "title": "Análise Econômica e Machine Learning: notebooks e slides das aulas práticas",
+  "creators": [
+    {
+      "name": "Sodré, Flavius Raymundo Arruda",
+      "affiliation": "Universidade Católica de Pernambuco"
+    }
+  ],
+  "description": "Material didático da disciplina Análise Econômica e Machine Learning, da Universidade Católica de Pernambuco (Unicap): dez laboratórios em Python, cada um com um notebook de exercícios e os slides da aula. Os temas vão da coleta de dados econômicos em APIs públicas à regularização, árvores e boosting, nowcasting, aprendizagem não supervisionada, validação de modelos e machine learning causal aplicado a políticas públicas.",
+  "license": "cc-by-nc-sa-4.0",
+  "language": "por",
+  "version": "1.0",
+  "keywords": [
+    "material didático",
+    "aprendizado de máquina",
+    "machine learning causal",
+    "análise econômica",
+    "Python",
+    "dados públicos"
+  ]
+}

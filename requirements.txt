@@ -1,0 +1,16 @@
+# Ambiente único para todas as aulas (Python 3.12 ou mais recente)
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+requests>=2.31
+scipy>=1.13
+scikit-learn>=1.5
+statsmodels>=0.14
+doubleml>=0.9
+xlrd>=2.0
+ipykernel>=6.29
+
+# Opcionais
+# econml       # floresta causal da Aula 10 (Bloco 4)
+# rdatasets    # fonte alternativa da base de Ames (Aula 04)
+# ucimlrepo    # fonte alternativa da base de Taiwan (Aulas 05 e 08)
