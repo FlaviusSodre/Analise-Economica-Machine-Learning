@@ -11,7 +11,7 @@ authors:
     given-names: "Flavius Raymundo Arruda"
     affiliation: "Universidade Católica de Pernambuco"
 version: "1.0"
-date-released: "2026-11-30"
+date-released: "2026-11-16"
 # doi: "10.5281/zenodo.XXXXXXX"
 repository-code: "https://github.com/FlaviusSodre/analise-economica-machine-learning"
 license: CC-BY-NC-SA-4.0
