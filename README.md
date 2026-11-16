@@ -1,7 +1,6 @@
 # Análise Econômica e Machine Learning
 
-<!-- Depois de gerar o DOI no Zenodo, troque XXXXXXX pelo número e apague as marcas de comentário desta linha -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24286946.svg)](https://doi.org/10.5281/zenodo.24286946)
 
 Material didático das aulas práticas da disciplina Análise Econômica e Machine Learning, da Universidade Católica de Pernambuco - Unicap: dez laboratórios em Python, cada um com um notebook de exercícios e os slides da aula. Os exemplos usam dados econômicos reais, em boa parte brasileiros e pernambucanos.
 
@@ -62,7 +61,7 @@ As soluções dos exercícios não ficam neste repositório, para que os estudan
 
 Use o botão "Cite this repository", na coluna da direita do GitHub, ou:
 
-> SODRÉ, Flavius Raymundo Arruda. **Análise Econômica e Machine Learning: notebooks e slides das aulas práticas**. Versão 1.0. Recife: Universidade Católica de Pernambuco, 2026. Material didático. Disponível em: https://doi.org/10.5281/zenodo.XXXXXXX.
+> SODRÉ, Flavius Raymundo Arruda. **Análise Econômica e Machine Learning: notebooks e slides das aulas práticas**. Versão 1.0. Recife: Universidade Católica de Pernambuco, 2026. Material didático. Disponível em: https://doi.org/10.5281/zenodo.24286946.
 
 ## Licença
 
